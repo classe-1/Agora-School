@@ -1,0 +1,22 @@
+{
+  "name": "page-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-myth": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglifycss": "^1.1.0",
+    "jshint": "^2.11.1"
+  }
+}
